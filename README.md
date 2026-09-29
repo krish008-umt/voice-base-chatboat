@@ -40,8 +40,7 @@ Linux: sudo apt install ffmpeg
 A free HuggingFace access token: https://huggingface.co/settings/tokens (Read permission is enough)
 Setup
 bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+
 
 python -m venv venv
 # Windows:
